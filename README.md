@@ -3,7 +3,7 @@
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaghafari&layout=compact&theme=radical" alt="Most Used Languages" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaghafari&layout=compact&theme=radical" alt="Most Used Languages" width="400"/>
 </p>
 
 
