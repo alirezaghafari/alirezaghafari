@@ -2,9 +2,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaghafari&layout=compact&theme=radical" alt="Most Used Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaghafari&layout=compact&theme=radical&cache_seconds=0" alt="Most Used Languages" width="400"/>
 </p>
 
+ 
 <!--
 **alirezaghafari/alirezaghafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
